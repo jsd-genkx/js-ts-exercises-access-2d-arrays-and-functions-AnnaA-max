@@ -31,3 +31,6 @@ console.log("Path:", moves.join(" → "));
 // Output: Path: A → B → C → F → E
 console.log("Total Moves (Start from 'A'):", moves.length - 1);
 // Output: Total Moves (Start from 'A'): 4
+
+
+// **ถ้าใส่ตัวเลขลงใน [row][col]จะกลายเป็นhard code
